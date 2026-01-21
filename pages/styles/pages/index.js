@@ -4,7 +4,7 @@ import { TrendingUp, TrendingDown, Target, Activity, DollarSign, Star, Calendar,
 // ============================================================
 // CONFIGURAÇÃO - COLE O ID DA SUA PLANILHA AQUI
 // ============================================================
-const GOOGLE_SHEETS_ID = https://docs.google.com/spreadsheets/d/1Jl6mXYkQQrpKDA4tpaFFy4NwjXOsYeSxP6tZc7JK3ec/edit?usp=sharing;
+const GOOGLE_SHEETS_ID = '1Jl6mXYkQQrpKDA4tpaFFy4NwjXOsYeSxP6tZc7JK3ec';
 // ============================================================
 
 const SHEETS_URL = `https://docs.google.com/spreadsheets/d/${GOOGLE_SHEETS_ID}/gviz/tq?tqx=out:json`;
